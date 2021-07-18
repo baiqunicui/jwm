@@ -1,0 +1,39 @@
+{
+    "stock": [
+        {
+            "date": "Sel, 06 May 21",
+            "jenis": "Plastik",
+            "berat": "300",
+            "status": "in",
+            "created_by": "1"
+        },
+        {
+            "date": "Kam, 14 May 21",
+            "jenis": "Plastik",
+            "berat": "300",
+            "status": "in",
+            "created_by": "1"
+        },
+        {
+            "date": "Jum, 01 May 21",
+            "jenis": "Plastik",
+            "berat": "300",
+            "status": "in",
+            "created_by": "2"
+        },
+        {
+            "date": "Sen, 12 May 21",
+            "jenis": "Kayu",
+            "berat": "300",
+            "status": "in",
+            "created_by": "2"
+        },
+        {
+            "date": "Rab, 21 May 21",
+            "jenis": "Plastik",
+            "berat": "2000",
+            "status": "Out",
+            "created_by": "1"
+        }
+    ]
+}
